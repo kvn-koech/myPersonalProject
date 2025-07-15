@@ -25,7 +25,7 @@ Package Manager: npm (for json-server)
 Clone the repository:
 
 bash
-git clone https://github.com/your-username/bookmark-manager.git
+git clone https://github.com/kvn-koech/myPersonalProject.git
 cd bookmark-manager
 Install json-server (if not installed globally):
 
@@ -64,10 +64,6 @@ Dynamic UI: Renders bookmarks and filters without page reloads.
 Edit existing bookmarks (PATCH).
 
 LocalStorage fallback if API fails.
-
-Dark mode toggle.
-
-Drag-and-drop reordering.
 
 ## Contributing
 Pull requests welcome! For major changes, open an issue first.
