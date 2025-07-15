@@ -3,6 +3,7 @@ document.addEventListener("DOMContentLoaded", () => {
   const form = document.getElementById("bookmark-form");
   const bookmarksList = document.getElementById("bookmarks-list");
   const tagFilter = document.getElementById("tag-filter");
+  
 
   // Fetch all bookmarks and render them
   function fetchBookmarks() {
