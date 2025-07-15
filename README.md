@@ -1,7 +1,6 @@
 # Bookmark Manager
 A single-page application (SPA) for managing bookmarks, built with JavaScript, HTML, CSS, and json-server for mock API persistence.
 
-https://via.placeholder.com/800x500?text=Bookmark+Manager+Demo (Replace with actual screenshot later)
 
 ## Features
 Add bookmarks (Title, URL, Tags)
@@ -27,7 +26,7 @@ Clone the repository:
 bash
 git clone https://github.com/kvn-koech/myPersonalProject.git
 cd bookmark-manager
-Install json-server (if not installed globally):
+Install json-server 
 
 bash
 npm install -g json-server
@@ -42,11 +41,11 @@ Open index.html in a browser (e.g., using VS Code Live Server).
 ## Project Structure
 text
 bookmark-manager/
-├── index.html          # Main HTML file
-├── styles.css          # Stylesheet
-├── script.js           # Core JavaScript logic
-├── db.json             # Mock database (stores bookmarks)
-└── README.md           # Project documentation
+-> index.html          # Main HTML file
+-> styles.css          # Stylesheet
+-> script.js           # Core JavaScript logic
+-> db.json             # Mock database (stores bookmarks)
+-> README.md           # Project documentation
 ## How It Works
 Fetching Data: Uses fetch() to GET/POST/DELETE bookmarks from json-server.
 
