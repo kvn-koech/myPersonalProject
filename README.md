@@ -64,8 +64,9 @@ Edit existing bookmarks (PATCH).
 
 LocalStorage fallback if API fails.
 
-## Contributing
-Pull requests welcome! For major changes, open an issue first.
+## Author
+Github : kvn-koech
+email: kevinkoech007@gmail.com
 
 ## License
 MIT
