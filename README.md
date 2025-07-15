@@ -35,8 +35,10 @@ Start the mock API server:
 bash
 json-server --watch db.json
 API will run at http://localhost:3000/bookmarks.
-
 Open index.html in a browser (e.g., using VS Code Live Server).
+
+## Live Link
+https://kvn-koech.github.io/myPersonalProject/
 
 ## Project Structure
 text
