@@ -11,6 +11,7 @@ document.addEventListener("DOMContentLoaded", () => {
       .then((bookmarks) => {
         renderBookmarks(bookmarks);
         updateTagFilter(bookmarks);
+        
       });
   }
 
