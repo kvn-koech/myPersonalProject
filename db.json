@@ -1,0 +1,101 @@
+{
+  "bookmarks": [
+    {
+      "id": "6a43",
+      "title": "W3SCHOOLS JS",
+      "url": "https://www.w3schools.com/js/",
+      "tags": [
+        "Javascript Tutorial"
+      ]
+    },
+    {
+      "id": "b61a",
+      "title": "W3SCHOOLS CSS",
+      "url": "https://www.w3schools.com/css/default.asp",
+      "tags": [
+        "CSS Tutorial"
+      ]
+    },
+    {
+      "id": "264f",
+      "title": "W3SCHOOLS HTML",
+      "url": "https://www.w3schools.com/html/default.asp",
+      "tags": [
+        "HTML Tutorial"
+      ]
+    },
+    {
+      "id": "c26b",
+      "title": "JS YOUTUBE",
+      "url": "https://www.youtube.com/watch?v=W6NZfCO5SIk",
+      "tags": [
+        "Youtube Tutorial for JS"
+      ]
+    },
+    {
+      "id": "8eeb",
+      "title": "HTML and CSS YOUTUBE",
+      "url": "https://www.youtube.com/watch?v=qz0aGYrrlhU",
+      "tags": [
+        "HTML and CSS Youtube Tutorial"
+      ]
+    },
+    {
+      "id": "5f8e",
+      "title": "CODING Books",
+      "url": "https://www.google.com/search?q=coding+books&oq=coding+books&gs_lcrp=EgZjaHJvbWUqBwgAEAAYgAQyBwgAEAAYgAQyBwgBEAAYgAQyBwgCEAAYgAQyBwgDEAAYgAQyBwgEEAAYgAQyBwgFEAAYgAQyBwgGEAAYgAQyBwgHEAAYgAQyBwgIEAAYgAQyBwgJEAAYgATSAQg1MzAzajBqN6gCALACAA&sourceid=chrome&ie=UTF-8",
+      "tags": [
+        "List of Coding Books"
+      ]
+    },
+    {
+      "id": "3d7a",
+      "title": "MDN JavaScript Guide",
+      "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide",
+      "tags": [
+        "JavaScript",
+        "Official Documentation"
+      ]
+    },
+    {
+      "id": "9f2c",
+      "title": "CSS-Tricks",
+      "url": "https://css-tricks.com/",
+      "tags": [
+        "CSS",
+        "Frontend",
+        "Tips & Tricks"
+      ]
+    },
+    {
+      "id": "1e5d",
+      "title": "FreeCodeCamp",
+      "url": "https://www.freecodecamp.org/",
+      "tags": [
+        "Coding Courses",
+        "Certifications",
+        "Open Source"
+      ]
+    },
+    {
+      "id": "7b3f",
+      "title": "GitHub Docs",
+      "url": "https://docs.github.com/",
+      "tags": [
+        "Version Control",
+        "Git",
+        "Collaboration"
+      ]
+    },
+    {
+      "id": "4c9a",
+      "title": "Stack Overflow",
+      "url": "https://stackoverflow.com/",
+      "tags": [
+        "Q&A",
+        "Programming Help",
+        "Developer Community"
+      ]
+    }
+  ]
+}

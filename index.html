@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Bookmark Manager</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <div class="container">
+    <h1> Bookmark Manager</h1>
+    
+    <!-- Add Bookmark Form -->
+    <form id="bookmark-form">
+      <input type="text" id="title" placeholder="Title" required>
+      <input type="url" id="url" placeholder="URL (https://...)" required>
+      <input type="text" id="tags" placeholder="Tags (comma-separated)">
+      <button type="submit">Add Bookmark</button>
+    </form>
+
+    <!-- Filter Bookmarks -->
+    <div class="filter-section">
+      <label for="tag-filter">Filter by Tag:</label>
+      <select id="tag-filter">
+        <option value="all">All</option>
+      </select>
+    </div>
+
+    <!-- Bookmarks List -->
+    <div id="bookmarks-list"></div>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
