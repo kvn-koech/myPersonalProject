@@ -66,7 +66,7 @@ Edit existing bookmarks (PATCH).
 
 LocalStorage fallback if API fails.
 
-## Author
+## Author 
 Github : kvn-koech
 email: kevinkoech007@gmail.com
 
