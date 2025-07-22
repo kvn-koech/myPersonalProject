@@ -5,7 +5,6 @@ document.addEventListener("DOMContentLoaded", () => {
   const tagFilter = document.getElementById("tag-filter");
 
 
-
   // Fetch all bookmarks and render them
   function fetchBookmarks() {
     fetch(API_URL)
