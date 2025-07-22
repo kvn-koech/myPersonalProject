@@ -1,5 +1,5 @@
 document.addEventListener("DOMContentLoaded", () => {
-  const API_URL = "http://localhost:3000/bookmarks";
+  const API_URL = "https://mypersonalproject-a2op.onrender.com";
   const form = document.getElementById("bookmark-form");
   const bookmarksList = document.getElementById("bookmarks-list");
   const tagFilter = document.getElementById("tag-filter");

@@ -4,9 +4,13 @@
   "scripts": {
     "start": "node server.js"
   },
-  
   "dependencies": {
     "json-server": "^0.17.3"
-  }
+  },
+  "description": "A single-page application (SPA) for managing bookmarks, built with JavaScript, HTML, CSS, and json-server for mock API persistence.",
+  "main": "script.js",
+  "devDependencies": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
 }
-
